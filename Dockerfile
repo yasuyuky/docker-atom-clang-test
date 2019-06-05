@@ -1,4 +1,4 @@
-FROM circleci/node:12.3.1
+FROM circleci/node:12.4.0
 MAINTAINER yasuyuky <yasuyuki.ymd@gmail.com>
 
 USER root
