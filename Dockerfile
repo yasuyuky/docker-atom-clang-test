@@ -1,4 +1,4 @@
-FROM circleci/node:14.12.0
+FROM circleci/node:14.13.0
 LABEL maintainer="yasuyuky <yasuyuki.ymd@gmail.com>"
 
 USER root
